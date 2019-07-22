@@ -1,1 +1,4 @@
-# intro_to_lp_with_pulp
+# Introduction to LP with PuLP
+
+WomenWhoCode, June 2019.
+
